@@ -16,7 +16,7 @@ public class ClassVariable {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("Class Variable Example");
         ClassVariable obj = new ClassVariable();
         obj.display();
     }
